@@ -4,6 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
+import utilities.Utility;
 
 import java.util.concurrent.TimeUnit;
 
@@ -19,6 +20,7 @@ public class RegisterOnNopCommerce {
         driver.get(baseUrl);
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        Utility utility = new Utility(driver);
 
         // Find element of register link and click
         WebElement registerLink = driver.findElement(By.linkText("Register"));
@@ -51,9 +53,12 @@ public class RegisterOnNopCommerce {
         day.selectByIndex(9);
 
         //Select month
-        WebElement dateOfBirthMonth = driver.findElement(By.name("DateOfBirthMonth"));
+        By dob = By.name("DateOfBirthMonth");
+        /*WebElement dateOfBirthMonth = driver.findElement(By.name("DateOfBirthMonth"));
         Select month = new Select(dateOfBirthMonth);
-        month.selectByVisibleText("October");
+        month.selectByVisibleText("October");*/
+        utility.selectByVisibleTextFromDropDown(dob,"December");
+
 
         //Select year
         WebElement dateOfBirthYear = driver.findElement(By.name("DateOfBirthYear"));

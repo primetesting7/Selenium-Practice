@@ -26,6 +26,9 @@ public class ChromeDriverDemo {
 
         List<WebElement> ourNurseriesList = driver.findElements(By.xpath("//li[@id='menu-item-2804']/ul/li/a"));
         selectTownOfNursery(ourNurseriesList, "Stanmore");
+
+
+
     }
 
 

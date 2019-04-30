@@ -33,21 +33,31 @@ public class LoginToNopCommerce {
         WebElement loginLink = driver.findElement(By.linkText("Log in"));
         // Click on Login Link element
         loginLink.click();*/
-        utility.clickOnElement(By.linkText("Log in"));
-        //Assert
-        WebElement text = driver.findElement(By.xpath("//h1[contains(text(),'Welcome, Please Sign In!')]"));
-        Assert.assertTrue("Welcome Text Not Displayed",text.isDisplayed());
+//        utility.clickOnElement(By.linkText("Log in"));
+//        //Assert
+//        WebElement text = driver.findElement(By.xpath("//h1[contains(text(),'Welcome, Please Sign In!')]"));
+//        Assert.assertTrue("Welcome Text Not Displayed", text.isDisplayed());
 //        String expectedText = "Welcome, Please Sign In!";
 //        String actualText =driver.findElement(By.xpath("//h1[contains(text(),'Welcome, Please Sign In!')]")).getText();
 //        Assert.assertEquals("Welcome Text Not Displayed",expectedText,actualText);
+
+        By computerTab = By.cssSelector("body > div.master-wrapper-page > div.header-menu > ul:nth-child(1) > li:nth-child(1) > a");
+        utility.clickOnElement(computerTab);
+
+        WebElement computerText = driver.findElement(By.xpath("//h1[contains(text(),'Computers')]"));
+        String string = computerText.getText();
+        System.out.println(string);
+        Assert.assertTrue(computerText.isDisplayed());
     }
 
     @Test
     public void userShouldLoginSuccessFully(){
         // Find element of login link
         By loginLink = By.linkText("Log in");
+        WebElement emailField = driver.findElement(By.id("Email"));
         // Click on Login Link element
         utility.clickOnElement(loginLink);
+        utility.clickOnElement(emailField);
 
 
         /*// Find Element of Email Field

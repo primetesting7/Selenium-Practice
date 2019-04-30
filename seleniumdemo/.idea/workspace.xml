@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46b4228c-f588-4d03-8c84-1f936b42111d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ComputerMenuTestWithUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginTestWithUtilityMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegistrationTestWithUtilityMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/driver/abc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seleniumdemo/ChromeDriverDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/seleniumdemo/ChromeDriverDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seleniumdemo/LoginToNopCommerce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/seleniumdemo/LoginToNopCommerce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seleniumdemo/RegisterOnNopCommerce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/seleniumdemo/RegisterOnNopCommerce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/seleniumdemo/utilities/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/seleniumdemo/utilities/Utility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChromeDriverDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChromeDriverDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoginToNopCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginToNopCommerce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RegisterOnNopCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegisterOnNopCommerce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/Utility.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,27 +28,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basicweb/WorkingWithElementsList.java">
+        <entry file="file://$PROJECT_DIR$/src/ChromeDriverDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="342">
+              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ChromeDriverDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JUnitIntroduction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="748">
               <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
             </state>
           </provider>
@@ -47,8 +48,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LoginToNopCommerce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1998">
-              <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+            <state relative-caret-position="765">
+              <caret line="43" column="129" selection-start-line="43" selection-start-column="129" selection-end-line="43" selection-end-column="129" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LoginTestWithUtilityMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="35" column="104" selection-start-line="35" selection-start-column="104" selection-end-line="35" selection-end-column="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RegistrationTestWithUtilityMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-328">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ComputerMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ComputerMenuTestWithUtility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -56,8 +93,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RegisterOnNopCommerce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="432">
+              <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utilities/WaitTypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utilities/Utility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="698">
+              <caret line="138" column="15" lean-forward="true" selection-start-line="138" selection-start-column="15" selection-end-line="138" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -83,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RegisterOnNopCommerce.java" />
         <option value="$PROJECT_DIR$/src/JUnitDemo.java" />
         <option value="$PROJECT_DIR$/src/JUnitIntroduction.java" />
         <option value="$PROJECT_DIR$/src/waittypes/ImplicitWaitDemo.java" />
@@ -98,21 +152,26 @@
         <option value="$PROJECT_DIR$/src/basicweb/DropdownSelect.java" />
         <option value="$PROJECT_DIR$/src/basicweb/NavigatingBetweenPages.java" />
         <option value="$PROJECT_DIR$/src/actionsclass/MouseHoverActions.java" />
-        <option value="$PROJECT_DIR$/src/ChromeDriverDemo.java" />
         <option value="$PROJECT_DIR$/src/actionsclass/DragAndDropActions.java" />
         <option value="$PROJECT_DIR$/src/waittypes/ExplicitWaitDemo.java" />
         <option value="$PROJECT_DIR$/src/utility/Utils.java" />
         <option value="$PROJECT_DIR$/src/utility/WaitTypes.java" />
-        <option value="$PROJECT_DIR$/src/utilities/Utility.java" />
-        <option value="$PROJECT_DIR$/src/ComputerMenu.java" />
         <option value="$PROJECT_DIR$/src/LoginToNopeCommerce.java" />
+        <option value="$PROJECT_DIR$/src/ChromeDriverDemo.java" />
+        <option value="$PROJECT_DIR$/src/RegisterOnNopCommerce.java" />
         <option value="$PROJECT_DIR$/src/LoginToNopCommerce.java" />
+        <option value="$PROJECT_DIR$/src/ComputerMenu.java" />
+        <option value="$PROJECT_DIR$/src/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/RegistrationTestWithUtilityMethod.java" />
+        <option value="$PROJECT_DIR$/src/LoginTestWithUtilityMethod.java" />
+        <option value="$PROJECT_DIR$/src/utilities/Utility.java" />
+        <option value="$PROJECT_DIR$/src/ComputerMenuTestWithUtility.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="2" />
     <option name="width" value="1364" />
     <option name="height" value="726" />
   </component>
@@ -132,12 +191,13 @@
             <path>
               <item name="seleniumdemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="seleniumdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seleniumdemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="seleniumdemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,7 +208,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556397687911" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556653025759" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -156,6 +216,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\seleniumdemo\driver" />
     </key>
@@ -172,9 +235,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LoginToNopCommerce">
+  <component name="RunManager" selected="JUnit.ComputerMenuTestWithUtility.verifyThatUserShouldNavigateToDesktopPage">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComputerMenu" />
+      <module name="seleniumdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -185,77 +256,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DragAndDropActions.testDragAndDrop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="seleniumdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="actionsclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="actionsclass" />
-      <option name="MAIN_CLASS_NAME" value="actionsclass.DragAndDropActions" />
-      <option name="METHOD_NAME" value="testDragAndDrop" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExplicitWaitDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="seleniumdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="waittypes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="waittypes" />
-      <option name="MAIN_CLASS_NAME" value="waittypes.ExplicitWaitDemo" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginToNopCommerce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ComputerMenuTestWithUtility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seleniumdemo" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginToNopCommerce" />
+      <option name="MAIN_CLASS_NAME" value="ComputerMenuTestWithUtility" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SliderActions.testSliderActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ComputerMenuTestWithUtility.verifyThatUserShouldNavigateToDesktopPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seleniumdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="actionsclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="actionsclass" />
-      <option name="MAIN_CLASS_NAME" value="actionsclass.SliderActions" />
-      <option name="METHOD_NAME" value="testSliderActions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ComputerMenuTestWithUtility" />
+      <option name="METHOD_NAME" value="verifyThatUserShouldNavigateToDesktopPage" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWithElementsList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginToNopCommerce.userShouldNavigateToLoginPageSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seleniumdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicweb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="basicweb" />
-      <option name="MAIN_CLASS_NAME" value="basicweb.WorkingWithElementsList" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginToNopCommerce" />
+      <option name="METHOD_NAME" value="userShouldNavigateToLoginPageSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTestWithUtilityMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumdemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RegistrationTestWithUtilityMethod" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -289,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LoginToNopCommerce" />
-        <item itemvalue="JUnit.WorkingWithElementsList" />
-        <item itemvalue="JUnit.ExplicitWaitDemo.test" />
-        <item itemvalue="JUnit.SliderActions.testSliderActions" />
-        <item itemvalue="JUnit.DragAndDropActions.testDragAndDrop" />
+        <item itemvalue="JUnit.ComputerMenuTestWithUtility.verifyThatUserShouldNavigateToDesktopPage" />
+        <item itemvalue="JUnit.ComputerMenuTestWithUtility" />
+        <item itemvalue="JUnit.RegistrationTestWithUtilityMethod" />
+        <item itemvalue="Application.ComputerMenu" />
+        <item itemvalue="JUnit.LoginToNopCommerce.userShouldNavigateToLoginPageSuccessfully" />
       </list>
     </recent_temporary>
   </component>
@@ -322,31 +358,17 @@
       <option name="project" value="LOCAL" />
       <updated>1556397696396</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="del abc">
+      <created>1556397740809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556397740809</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NavigatingBetweenPages_test - 2019.04.27 at 14h 55m 43s.xml">
-      <configuration name="NavigatingBetweenPages.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NavigatingBetweenPages_test - 2019.04.27 at 15h 00m 40s.xml">
-      <configuration name="NavigatingBetweenPages.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RadioButtonsAndCheckBoxes_test - 2019.04.27 at 15h 08m 28s.xml">
-      <configuration name="RadioButtonsAndCheckBoxes.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MouseHoverActions_testMouseHoverActions - 2019.04.27 at 15h 17m 54s.xml">
-      <configuration name="MouseHoverActions.testMouseHoverActions" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DragAndDropActions_testDragAndDrop - 2019.04.27 at 15h 49m 51s.xml">
-      <configuration name="DragAndDropActions.testDragAndDrop" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SliderActions_testSliderActions - 2019.04.27 at 15h 54m 40s.xml">
-      <configuration name="SliderActions.testSliderActions" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExplicitWaitDemo_test - 2019.04.27 at 16h 04m 52s.xml">
-      <configuration name="ExplicitWaitDemo.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ExplicitWaitDemo_test - 2019.04.27 at 16h 10m 45s.xml">
       <configuration name="ExplicitWaitDemo.test" configurationId="JUnit" />
     </history-entry>
@@ -356,12 +378,33 @@
     <history-entry file="LoginToNopCommerce - 2019.04.27 at 18h 43m 47s.xml">
       <configuration name="LoginToNopCommerce" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LoginToNopCommerce_userShouldNavigateToLoginPageSuccessfully - 2019.04.30 at 13h 52m 14s.xml">
+      <configuration name="LoginToNopCommerce.userShouldNavigateToLoginPageSuccessfully" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginToNopCommerce_userShouldNavigateToLoginPageSuccessfully - 2019.04.30 at 13h 54m 24s.xml">
+      <configuration name="LoginToNopCommerce.userShouldNavigateToLoginPageSuccessfully" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginToNopCommerce_userShouldNavigateToLoginPageSuccessfully - 2019.04.30 at 13h 56m 51s.xml">
+      <configuration name="LoginToNopCommerce.userShouldNavigateToLoginPageSuccessfully" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegistrationTestWithUtilityMethod - 2019.04.30 at 19h 37m 45s.xml">
+      <configuration name="RegistrationTestWithUtilityMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ComputerMenuTestWithUtility - 2019.04.30 at 20h 25m 19s.xml">
+      <configuration name="ComputerMenuTestWithUtility" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ComputerMenuTestWithUtility_verifyThatUserShouldNavigateToDesktopPage - 2019.04.30 at 20h 26m 06s.xml">
+      <configuration name="ComputerMenuTestWithUtility.verifyThatUserShouldNavigateToDesktopPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ComputerMenuTestWithUtility_verifyThatUserShouldNavigateToDesktopPage - 2019.04.30 at 20h 36m 14s.xml">
+      <configuration name="ComputerMenuTestWithUtility.verifyThatUserShouldNavigateToDesktopPage" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19785276" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -373,7 +416,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32715008" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5682968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56792146" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -383,7 +426,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Console" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3288364" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -394,7 +437,7 @@
       <window_info anchor="right" id="Theme Preview" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19478528" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -405,8 +448,8 @@
       <window_info id="Capture Tool" order="8" />
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5682968" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32715008" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56792146" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,7 +459,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Console" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3288364" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -429,7 +472,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="abc" />
-    <option name="LAST_COMMIT_MESSAGE" value="abc" />
+    <MESSAGE value="del abc" />
+    <option name="LAST_COMMIT_MESSAGE" value="del abc" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://D:/Selenium Web Driver Course/Wait Types - Handling Synchronization Issues/3-ExplicitWaitDemo.java">
@@ -620,52 +664,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utilities/WaitTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ComputerMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="64" column="63" selection-start-line="64" selection-start-column="63" selection-end-line="64" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utilities/Utility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/basicweb/WorkingWithElementsList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
+        <state>
           <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChromeDriverDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LoginToNopCommerce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1998">
-          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RegisterOnNopCommerce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
@@ -674,8 +676,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JUnitIntroduction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="748">
           <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RegisterOnNopCommerce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/WaitTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Nopecommerce_Project_PageFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChromeDriverDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginToNopCommerce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="43" column="129" selection-start-line="43" selection-start-column="129" selection-end-line="43" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginTestWithUtilityMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="35" column="104" selection-start-line="35" selection-start-column="104" selection-end-line="35" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RegistrationTestWithUtilityMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputerMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilities/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="138" column="15" lean-forward="true" selection-start-line="138" selection-start-column="15" selection-end-line="138" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComputerMenuTestWithUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
         </state>
       </provider>
     </entry>
